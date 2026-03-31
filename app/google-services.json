@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741395176656",
+    "project_id": "fintracker-pro-2ac50",
+    "storage_bucket": "fintracker-pro-2ac50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741395176656:android:6d15f09e68e9be314792d5",
+        "android_client_info": {
+          "package_name": "com.rishi.fintrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowYgojPqmKnF93Y8s3uFTYSdS7-K27lA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
